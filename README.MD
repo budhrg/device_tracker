@@ -8,7 +8,7 @@ Fork, then clone the repo:
 
     git clone https://github.com/<your-username>/device_tracker.git
 
-Run `/example` tests through your local repo:
+Run tests through your local repo:
 
     1. cd your_repo
 
